@@ -1,0 +1,6 @@
+ahmet,123456,Ahmet Can Saptýr,20,Erkek,Bekar,Balýkesir,Mühendis
+mehmet,1234,Mehmet Yýlmaz,30,Erkek,Evli,Siirt,Doktor
+kenan,123456,Kenan Gülol,25,Erkek,Evli,Bayburt,Mühendis
+rana,123456,Rana Yýlmaz,37,Kadýn,Bekar,Tunceli,Mühendis
+hatice,3831,Hatice Ercan,48,Kadýn,Evli,Kayseri,Hemþire
+

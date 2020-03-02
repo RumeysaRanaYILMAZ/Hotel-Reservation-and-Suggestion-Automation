@@ -1,0 +1,14 @@
+Antakya Ottoman place thermal Resort,Hatay,St Pierre,Fitness,Sauna,Termal Tesis,Havuz,Tam Pansiyon,Standart-10.585-10.400,Superior-10.655-5.550,Deluxe-5.855-5.800,King Deluxe-1.1000-1.1000
+ÇanKaya Konaklarý,Hatay,St Pierre,,,,Havuz,Tam Pansiyon,Standart-15.325-10.250,Superior-10.600-5.500,,,
+Truva Life Otel,Hatay,Samandað Kumsalý,Fitness,,,Havuz,Tam Pansiyon,Standart-5.180-10.150,,Deluxe-2.500-1.400,King Deluxe-1.600-1.500
+Harbiye Sara Otel,Hatay,Samandað Kumsalý,,,,,Tam Pansiyon,Standart-10.120-10.100,,,,
+Hattuþa Vacation Termal Club Erzin,Hatay,Ýsos Harabeleri,Fitness,Sauna,Termal Tesis,Havuz,Tam Pansiyon,Standart-15.385-15.200,Superior-10.655-5.550,,King Deluxe-1.1000-1.1000
+FourWay Otel,Hatay,Ýsos Harabeleri,Fitness,,,Havuz,Tam Pansiyon,Standart-10.285-5.180,Superior-10.455-5.350,,,
+Metropolis Otel,Ýzmir,Torbalý Keçi Kalesi,,Sauna,,Havuz,Tam Pansiyon,Standart-10.280-10.200,Superior-5.380-5.300,Deluxe-3.555-2.400,,
+Gülol Otel,Ýzmir,Torbalý Keçi Kalesi,Fitness,Sauna,,Havuz,Tam Pansiyon,,,,King Deluxe-3.3000-3.2000
+Wyndham Grand,Ýzmir,Kordon Boyu,Fitness,Sauna,,Havuz,Tam Pansiyon,Standart-10.585-10.400,Superior-5.655-5.550,Deluxe-5.755-5.700,King Deluxe-1.1000-1.1000
+Ramada Plaza,Ýzmir,Kordon Boyu,Fitness,,,,,,Superior-15.455-15.350,Deluxe-2.655-1.600,,
+Richmond Ephesus,Ýzmir,Kuþ Adasý,Fitness,Sauna,Termal Tesis,Havuz,Tam Pansiyon,Standart-10.585-15.400,Superior-10.655-5.590,Deluxe-5.855-5.800,King Deluxe-1.1000-1.1000
+Charisma Deluxe,Ýzmir,Kuþ Adasý,Fitness,Sauna,Termal Tesis,Havuz,Tam Pansiyon,Standart-10.385-15.340,Superior-10.555-10.450,Deluxe-5.855-5.800,,
+Albatros Dað Evleri,Balýkesir,Ulupýnar Maðarasý,,Sauna,,,Tam Pansiyon,Standart-10.385-5.340,Superior-10.555-5.450,,,
+Altýn Çeþmeli Konak,Balýkesir,Ulupýnar Maðarasý,,Sauna,,,Tam Pansiyon,Standart-15.185-15.140,,,,
